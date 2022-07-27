@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ringover_shopping/static/css/main.f9f500ce.css",
-    "main.js": "/ringover_shopping/static/js/main.efa489bc.js",
+    "main.css": "/ringover_shopping/static/css/main.9bf0b0a6.css",
+    "main.js": "/ringover_shopping/static/js/main.bf2c4c3a.js",
     "static/media/shoe2.png": "/ringover_shopping/static/media/shoe2.1ff2f8b50ab06f31593c.png",
     "static/media/tonikroos.jpg": "/ringover_shopping/static/media/tonikroos.fb061c76e3ec05875a55.jpg",
     "static/media/Product_Sans.ttf": "/ringover_shopping/static/media/Product_Sans.863727019c4716c4dc24.ttf",
@@ -16,11 +16,11 @@
     "static/media/twitter.svg": "/ringover_shopping/static/media/twitter.db8bd1d176685f75ed42db090f4d126c.svg",
     "index.html": "/ringover_shopping/index.html",
     "static/media/facebook.svg": "/ringover_shopping/static/media/facebook.6b4f7afe6ec5cf535062865a07aba10b.svg",
-    "main.f9f500ce.css.map": "/ringover_shopping/static/css/main.f9f500ce.css.map",
-    "main.efa489bc.js.map": "/ringover_shopping/static/js/main.efa489bc.js.map"
+    "main.9bf0b0a6.css.map": "/ringover_shopping/static/css/main.9bf0b0a6.css.map",
+    "main.bf2c4c3a.js.map": "/ringover_shopping/static/js/main.bf2c4c3a.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9f500ce.css",
-    "static/js/main.efa489bc.js"
+    "static/css/main.9bf0b0a6.css",
+    "static/js/main.bf2c4c3a.js"
   ]
 }
