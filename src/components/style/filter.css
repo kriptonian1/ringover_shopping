@@ -1,0 +1,74 @@
+.shadow-box {
+  width: 25vw;
+  height: 60vh;
+  display: grid;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+  grid-template: 20px / repeat(auto-fit, 20px);
+  grid-gap: 20px;
+}
+.icon {
+  display: flex;
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+
+.filter-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem;
+}
+
+.filter-heading {
+  font-size: 2em;
+  padding-right: 20px;
+}
+
+.filter {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+}
+
+.chkbox {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 1rem;
+}
+
+.align-color {
+  display: flex;
+  grid-gap: 20px;
+  flex-direction: row;
+  padding: 1rem;
+}
+
+.color1 {
+  background-color: red;
+  width: 2rem;
+  height: 2rem;
+  cursor: pointer;
+}
+.color2 {
+  background-color: black;
+  width: 2rem;
+  height: 2rem;
+  cursor: pointer;
+}
+.color3 {
+  background-color: yellow;
+  width: 2rem;
+  height: 2rem;
+  cursor: pointer;
+}
+
+.apply-btn {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  border: none;
+}

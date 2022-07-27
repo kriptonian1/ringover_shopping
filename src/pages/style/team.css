@@ -1,0 +1,66 @@
+.team{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1200px;
+    padding: 0 20px;
+}
+
+.head-text{
+    font-size: 1.5em;
+    text-align: center;
+    margin-bottom: 1em;
+    padding-top: 10vh;
+}
+
+.team-box{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
+    margin: 0 auto;
+    width: 100%;
+    
+    
+}
+@media  (max-width: 800px) {
+    .team-box{
+        flex-direction: column;
+    }
+}
+    
+
+
+.logo{
+    width: 2rem;
+}
+
+.social-wrap{
+    display: flex;
+    flex-direction: row;
+}
+
+.image-wrap{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.center-name{
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+.name{
+    font-size: 1.5em;
+    margin-bottom: 1em;
+}
+
+.last-text{
+    font-size: 2em;
+    margin-top: 1em;
+}
